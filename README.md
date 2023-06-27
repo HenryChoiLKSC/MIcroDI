@@ -4,6 +4,9 @@
 
 ##### In late 2022, ChatGPT is introduced but I didn't use it to make this at the start. I just used it to do my HTML code for the other school project. At last week (19/6/2023), I suddenly remembered this idea and I used GPT to do it, the talking history are at the end of this README
 
+## Reminder
+Version 1.0 : You can't use midi that with more than 1 note plaing together, which means no midi with more than 1 track can be used
+
 ## License and copyright
 Those file are part of MIcroDI. 
 Licensed under the Apache License, Version 2.0 (the "License"); 
