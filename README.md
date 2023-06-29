@@ -1,4 +1,4 @@
-# MIcroDI - A MIDI-micro:bit JS converter firstly made by GPT models
+# MIcroDI - A MIDI-micro:bit Python script converter firstly made by GPT models
 ## Why I made it
 ###### In 2020-2021, when having **_Zoom lessons_**, I found that the school-controlled iPad has micro:bit app, and I had an idea making micro:bit music, but that needs much time so I used to try to make the converter, but I didn't have any programming skills (only basic HTML) so I gave up...
 
