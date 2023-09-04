@@ -8,7 +8,7 @@
 ### Please work on it if you have any ideas!
 
 ## Reminder and warning
-Version 1.0 : You __can't use midi that with more than 1 notes plaing together__, which means no midi with more than 1 track can be used
+Version 1.0 : You __can't use midi that with more than 1 notes playing together__, which means no midi with more than 1 track can be used
 
 ## License and copyright
 Those file are part of MIcroDI. 
